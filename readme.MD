@@ -1,5 +1,4 @@
 # 328 Terminal
-## An 8-Bit Computer You can build for ~$8 (hopefully)
 
 ## About
 
